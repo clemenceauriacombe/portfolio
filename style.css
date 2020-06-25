@@ -1,0 +1,53 @@
+* {
+color : lightpink; 
+font-family: century gothic, fangsong;
+scroll-behavior: smooth;
+}
+
+body {
+
+background-image: url('photo.jpg');
+background-size: 100%;
+padding: 30px;
+
+}
+
+h1 {
+	font-family: century gothic, fangsong;
+	text-align: center;
+	color: pink;
+	font-style: italic;
+	font-size: 80px;
+
+}
+ 
+footer {
+background: grey;
+color: darkgrey;
+bottom:0;
+width:100%;
+padding-top:5px;
+height: 2.5rem; 
+text-align: center;
+}
+
+.texte{
+	width: 45%;
+	font-size: 18px;
+}
+
+.text-link {
+	color : lightpink;
+	text-decoration: underline;
+
+}
+
+a:hover.text-link {
+  color: pink;
+}
+
+.intro {
+	font-size: 120%;
+	width: 50%;
+	border-style: solid;
+}
