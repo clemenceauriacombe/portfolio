@@ -6,9 +6,12 @@ scroll-behavior: smooth;
 
 body {
 
+background-repeat: no-repeat;
+background-attachment: fixed;
 background-image: url('photo.jpg');
 background-size: 100%;
 padding: 30px;
+
 
 }
 
@@ -51,4 +54,9 @@ a:hover.text-link {
 	width: 50%;
 	border-style: solid;
 	padding: 15px;
+}
+
+@font-face {
+	font-family: 'Century gothic';
+	src: URL('Century Gothic 400.ttf');
 }
