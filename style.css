@@ -2,6 +2,7 @@
 color : lightpink; 
 font-family: century gothic, fangsong;
 scroll-behavior: smooth;
+
 }
 
 body {
@@ -9,7 +10,7 @@ body {
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-image: url('photo.jpg');
-background-size: 100%;
+background-size: cover;
 padding: 30px;
 
 
