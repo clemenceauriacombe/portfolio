@@ -24,17 +24,6 @@ h1 {
 	font-size: 80px;
 
 }
- 
-/* footer {
-background: grey;
-color: darkgrey;
-bottom:0;
-width:100%;
-padding-top:5px;
-height: 2.5rem; 
-text-align: center;
-}
-*/
 
 footer {
 	background-color: grey; 
@@ -74,3 +63,4 @@ a:hover.text-link {
 	  display : flex;
 	  flex-direction : column;
 	}
+}
